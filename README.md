@@ -16,4 +16,4 @@ git add images
 
 # Nueva imagen
 
-![La imagen no se puede mostrar](./images/imagen1.png)
+![La imagen no se puede mostrar](./images/imagen1.PNG)
