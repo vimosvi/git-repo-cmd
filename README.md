@@ -12,6 +12,8 @@ git remote add origin https://github.com/vimosvi/git-repo-cmd.git
 
 git push -u origin main
 
+git add images
+
 # Nueva imagen
 
-![La imagen no se puede mostrar](./images/imagen2.png)
+![La imagen no se puede mostrar](./images/imagen1.png)
